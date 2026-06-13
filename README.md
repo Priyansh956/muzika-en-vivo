@@ -20,8 +20,6 @@ A lightweight, modern cross-platform mobile application built with Flutter that 
 |:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
 | <img src="assets/images/home_screen.jpeg" width="250" alt="Home Screen"/> | <img src="assets/images/download_screen.jpeg" width="250" alt="Download Screen"/> | <img src="assets/images/download_complete_screen.png" width="250" alt="Download Complete Screen"/> |
 
-> **Note:** To add your own screenshots, create a folder named `screenshots` in the root directory of your project, save your images there (e.g., `search_screen.png`), and ensure the paths in the table above match your filenames.
-
 ---
 
 ## 🛠️ Built With
